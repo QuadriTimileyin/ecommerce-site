@@ -12,7 +12,7 @@ const Head = () => {
             <label> support@Timstech.com</label>
           </div>
           <div className="right row RText">
-            <label>Theme FAQ"s</label>
+            <label>  FAQ"s</label>
             <label>Need Help?</label>
             <span>🏳️‍⚧️</span>
             <label>EN</label>
