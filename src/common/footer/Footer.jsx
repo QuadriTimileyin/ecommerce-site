@@ -46,7 +46,7 @@ const Footer = () => {
             <ul>
               <li>Ikeja, Lagos State, Nigeria </li>
               <li>Email: support@Timstech.com</li>
-              <li>Phone: 09038614081</li>
+              <li>Phone: 08079487595</li>
             </ul>
           </div>
         </div>
